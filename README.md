@@ -39,7 +39,7 @@ The acousticness metric (measuring reliance on acoustic vs. electronic instrumen
 2. Computed average acousticness values by genre to understand production characteristics
 3. Created horizontal bar charts for easy genre comparison and readability
 
-**Variables Analyzed**:
+**Variables Analysed**:
 - Genre (categorical)
 - Popularity (measured by track count)
 - Acousticness (0-1 scale, where 1 = fully acoustic)
@@ -47,7 +47,7 @@ The acousticness metric (measuring reliance on acoustic vs. electronic instrumen
 
 - # Potential Extensions
 
-- Analyze temporal trends: How has genre popularity shifted over decades?
+- Analyse temporal trends: How has genre popularity shifted over decades?
 - Correlation analysis: Examine relationships between acousticness and other audio features (energy, danceability, valence)
 - Market segmentation: Identify listener personas based on genre preferences and audio characteristics
 
