@@ -1,5 +1,5 @@
 # Spotify Genre Analysis: Popularity and Acousticness Trends
-This repository contains an analysis of Spotify data in Tableau. An analysis of 232,726 Spotify tracks e
+This repository contains an analysis of Spotify data in Tableau.
 ## Project Overview
 Analysis of over 232,000 Spotify tracks examining genre distribution and acoustic characteristics to uncover patterns in music consumption and production styles.
 
